@@ -1,5 +1,4 @@
 
-// 1) โหลดเมนูจาก menu.html มาใส่ทุกหน้า
 document.addEventListener("DOMContentLoaded", () => {
     fetch("menu.html")
       .then((res) => {
